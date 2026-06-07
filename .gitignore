@@ -1,0 +1,90 @@
+# Production-only allowlist for GitHub Pages.
+# Everything is ignored first, then the public website files are explicitly included.
+/*
+
+!/.gitignore
+!/.nojekyll
+!/README.md
+
+!/index.html
+!/project-*.html
+
+!/favicon.svg
+!/Profile-suphachai chaichang.jpeg
+!/Resume-suphachai chaichang.pdf
+
+!/hero-pixel-loading-demo.css
+!/project-detail.css
+!/hero-pixel-loading-demo.js
+!/project-detail.js
+!/i18n.js
+
+!/icon-linkedin.svg
+!/icon-resume.svg
+
+!/icon/
+/icon/*
+!/icon/behance-mono.svg
+!/icon/gmail-mono.svg
+!/icon/icon_AI Tools & Workflow.svg
+!/icon/icon_Academic Management_info-project.svg
+!/icon/icon_Academic Tracking_info-project.svg
+!/icon/icon_Academics_info-project.svg
+!/icon/icon_Announcements_info-project.svg
+!/icon/icon_Automated Workflow_info-project.svg
+!/icon/icon_Collaboration.svg
+!/icon/icon_Communication Hub_info-project.svg
+!/icon/icon_Document Management_info-project.svg
+!/icon/icon_Health & Safety_info-project.svg
+!/icon/icon_News & Notifications_info-project.svg
+!/icon/icon_Payments Management_info-project.svg
+!/icon/icon_Payments_info-project.svg
+!/icon/icon_Real-time Dashboard_info-project.svg
+!/icon/icon_Real-time Rates Dashboard_info-project.svg
+!/icon/icon_Seamless Transaction Tracking.svg
+!/icon/icon_Seamless Transaction Tracking_info-project.svg
+!/icon/icon_Skill Development_info-project.svg
+!/icon/icon_Smart Currency Calculator_info-project.svg
+!/icon/icon_UI Design.svg
+!/icon/icon_UX Research.svg
+!/icon/icon_View.svg
+!/icon/instagram-mono.svg
+
+!/image/
+/image/*
+!/image/BG-Ace Student.png
+!/image/BG-Ace Teacher.png
+!/image/BG-Business Management ERP System.png
+!/image/Certificate of Internship.jpeg
+!/image/Certificate_ Intro to User Experience Design.jpeg
+!/image/Certificate_UI Fundamentals.jpeg
+!/image/Certificates_Building Products That Exceed Customer Expectations by 300% Through Product Discovery.jpeg
+!/image/Certificates_Driving Inbound Marketing and SEO Success through Performance Marketing Integration.jpeg
+!/image/Certificates_Introduction to Product Management Foundation.jpeg
+!/image/Mockup_Ace Student 3.png
+!/image/Project Outcomes-Ace Student.png
+!/image/Project Outcomes-Business Management ERP System.png
+!/image/hero section Ace Student.png
+!/image/image section - Ace Students.png
+!/image/image section - Ace Teacher.png
+!/image/image section - Business Management ERP System.png
+!/image/image section - Linda Exchange.png
+!/image/image section - My Success Maker.png
+!/image/image section - My Success Story.png
+!/image/mockup_Ace Student 1.png
+!/image/mockup_Ace Student 2.png
+!/image/mockup_Ace Teacher 1.png
+!/image/mockup_Ace Teacher 2.png
+!/image/mockup_Ace Teacher 3.png
+!/image/mockup_Business Management ERP System 1.png
+!/image/mockup_Business Management ERP System 3.png
+!/image/mockup_Linda Exchange 2.png
+!/image/mockup_Linda Exchange 3.png
+!/image/mockup_My Success Maker 1.png
+!/image/mockup_My Success Maker 2.png
+!/image/mockup_My Success Maker 3.png
+!/image/mockup_My Success Maker 4.png
+!/image/mockup_My Success Story 1.png
+!/image/mockup_My Success Story 2.png
+!/image/mockup_My Success Story 3.png
+!/image/mockup_My Success Story 4.png
