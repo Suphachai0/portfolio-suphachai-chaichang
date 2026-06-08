@@ -269,10 +269,10 @@
     "Reduced the time employees spend on redundant data entry across departments.":
       "ลดเวลาที่พนักงานใช้กับการกรอกข้อมูลซ้ำระหว่างแผนก",
     "Automated data syncing decreased manual paperwork and inventory errors.":
-      "Automated data syncing ช่วยลดงานเอกสาร manual และ inventory errors",
+      "การซิงก์ข้อมูลอัตโนมัติช่วยลดงานเอกสารและข้อผิดพลาดด้านคลังสินค้า",
     "5 minutes": "5 นาที",
     "Cut management report generation time from several days down to just 5 minutes.":
-      "ลดเวลา generate report สำหรับ management จากหลายวันเหลือเพียง 5 นาที",
+      "ลดเวลาการสร้างรายงานสำหรับผู้บริหารจากหลายวันเหลือเพียง 5 นาที",
     "Managing your business effectively.": "จัดการธุรกิจได้อย่างมีประสิทธิภาพ",
     "Real-time Dashboard": "Real-time Dashboard",
     "Displays live sales, accounting, and inventory data for instant management decisions.":
