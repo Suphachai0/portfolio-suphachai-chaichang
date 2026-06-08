@@ -941,6 +941,7 @@ body:not(.is-about-complete) .skills-stage {
   display: grid;
   grid-template-rows: 108px auto auto auto;
   align-content: start;
+  justify-self: center;
   width: 100%;
   max-width: min(100%, 320px);
   padding: 0 clamp(10px, 1vw, 16px);
